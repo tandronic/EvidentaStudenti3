@@ -1,0 +1,28 @@
+D:\3121A\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe.config
+D:\3121A\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe
+D:\3121A\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.pdb
+D:\3121A\EvidentaStudenti\EvidentaStudenti\bin\Debug\LibrarieEntitati.dll
+D:\3121A\EvidentaStudenti\EvidentaStudenti\bin\Debug\LibrarieEntitati.pdb
+D:\3121A\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.csprojAssemblyReference.cache
+D:\3121A\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.csproj.CoreCompileInputs.cache
+D:\3121A\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.csproj.CopyComplete
+D:\3121A\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.exe
+D:\3121A\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe.config
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\EvidentaStudenti\bin\Debug\LibrarieEntitati.dll
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\EvidentaStudenti\bin\Debug\LibrarieEntitati.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.csprojAssemblyReference.cache
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.csproj.CopyComplete
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.exe
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe.config
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\EvidentaStudenti\bin\Debug\EvidentaStudenti.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\EvidentaStudenti\bin\Debug\LibrarieEntitati.dll
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\EvidentaStudenti\bin\Debug\LibrarieEntitati.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\EvidentaStudenti\obj\Debug\EvidentaStudenti.csprojAssemblyReference.cache
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\EvidentaStudenti\obj\Debug\EvidentaStudenti.csproj.CopyComplete
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\EvidentaStudenti\obj\Debug\EvidentaStudenti.exe
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\EvidentaStudenti\obj\Debug\EvidentaStudenti.pdb
